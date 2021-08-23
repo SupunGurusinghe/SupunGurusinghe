@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Crop Management System](https://github.com/SLIIT-FacultyOfComputing/itp_project-g08.git)
 
-- 🌱 I’m currently learning **Python, Django, Java**
+- 🌱 I’m currently learning **Python, Django, Java, Android Developing**
 
 - 📫 How to reach me **supunsameeran@gmail.com**
 
