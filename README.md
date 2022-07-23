@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supun Sameera</h1>
-<h3 align="center">Software Engineering Undergraduate 🖤</h3>
+<h3 align="center">Data Science Undergraduate 🖤</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supungurusinghe&label=Profile%20views&color=0e75b6&style=flat" alt="supungurusinghe" /> </p>
-
-- 🔭 I’m currently working on [Crop Management System](https://github.com/SLIIT-FacultyOfComputing/itp_project-g08.git)
-
-- 🌱 I’m currently learning **Python, Django, Java, Android Developing**
 
 - 📫 How to reach me **supunsameeran@gmail.com**
 
