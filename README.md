@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **supunsameeran@gmail.com**
 
-- 📄 Know about my experiences [https://img1.wsimg.com/blobby/go/2f4512a6-4184-4e55-89ca-db40083425ef/downloads/W%20G%20G%20A%20Supun%20Sameera%20-%20Resume.pdf?ver=1662633446427](https://img1.wsimg.com/blobby/go/2f4512a6-4184-4e55-89ca-db40083425ef/downloads/W%20G%20G%20A%20Supun%20Sameera%20-%20Resume.pdf?ver=1662633446427)
+- 📄 Know about my experiences [shorturl.at/dhSUV](shorturl.at/dhSUV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
