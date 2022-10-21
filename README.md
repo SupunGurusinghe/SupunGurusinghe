@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Data quality handling through ETL process**
 
-- 👨‍💻 All of my projects are available at [https://supunsameera.godaddysites.com/](https://supunsameera.godaddysites.com/)
+- 👨‍💻 All of my projects are available at [Click Here](https://supunsameera.godaddysites.com/)
 
 - 📫 How to reach me **supunsameeran@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/dhSUV](shorturl.at/dhSUV)
+- 📄 Know about my experiences [Click Here](shorturl.at/dhSUV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
