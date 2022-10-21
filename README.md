@@ -17,7 +17,7 @@
 <a href="https://stackoverflow.com/users/supunsameera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun sameera" height="30" width="40" /></a>
 <a href="https://kaggle.com/supunsameera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="supunsameera" height="30" width="40" /></a>
 <a href="https://fb.com/supunsameera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun sameera" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/supungurusinghe](https://www.youtube.com/channel/UC3bt2ODeT5heYMcu6J7x6Iw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun gurusinghe" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC3bt2ODeT5heYMcu6J7x6Iw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun gurusinghe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
