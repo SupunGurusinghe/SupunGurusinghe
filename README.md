@@ -25,6 +25,10 @@
 
 <hr>
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SupunGurusinghe)](https://github.com/SupunGurusinghe/github-readme-stats)
+
+<hr>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supungurusinghe&show_icons=true&theme=radical&locale=en" alt="supungurusinghe" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=supungurusinghe&show_icons=true&theme=radical&locale=en" alt="supungurusinghe" /></p>
