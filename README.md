@@ -25,7 +25,7 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SupunGurusinghe)](https://github.com/SupunGurusinghe/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SupunGurusinghe&theme=tokyonight)](https://github.com/SupunGurusinghe/github-readme-stats)
 
 <hr>
 
