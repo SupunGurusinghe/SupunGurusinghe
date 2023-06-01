@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Supun Gurusinghe</h1>
 <h3 align="center">Software Engineer @Innodata Lanka Pvt Ltd | Data Science Undergraduate @SLIIT</h3>
 
-![](https://visitcount.itsvg.in/api?id=SupunGurusinghe&icon=5&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=SupunGurusinghe&icon=5&color=0)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/supunsameera) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/supun-sameera) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13695957) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@supungurusinghe238) 
@@ -14,7 +14,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunGurusinghe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="supungurusinghe" /></p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SupunGurusinghe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=SupunGurusinghe&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="supungurusinghe" /></p>
 
 
 
