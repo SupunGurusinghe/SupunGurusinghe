@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supungurusinghe&label=Profile%20views&color=0e75b6&style=flat" alt="supungurusinghe" /> </p>
 
-- 🌱 I’m currently learning **Data quality handling through ETL process**
-
-- 👨‍💻 All of my projects are available at [Click Here](https://supunsameera.godaddysites.com/)
-
-- 📫 How to reach me **supunsameeran@gmail.com**
-
-- 📄 Know about my experiences [Click Here](shorturl.at/dhSUV)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/supun-sameera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supun-sameera" height="30" width="40" /></a>
