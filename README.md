@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Supun Gurusinghe</h1>
 <h3 align="center">Software Engineer @Innodata Lanka Pvt Ltd | Data Science Undergraduate @SLIIT</h3>
----
+
 ![](https://visitcount.itsvg.in/api?id=SupunGurusinghe&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
