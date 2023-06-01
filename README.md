@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Supun Gurusinghe</h1>
 <h3 align="center">Software Engineer @Innodata Lanka Pvt Ltd | Data Science Undergraduate @SLIIT</h3>
 ---
-[![](https://visitcount.itsvg.in/api?id=SupunGurusinghe&icon=5&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=SupunGurusinghe&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/supunsameera) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/supun-sameera) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13695957) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@supungurusinghe238) 
